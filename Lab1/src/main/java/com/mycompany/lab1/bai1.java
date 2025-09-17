@@ -12,5 +12,8 @@ public class bai1 {
 
     public static void main(String[] args) {
         // sinh viên code ở đây
+        System.out.println("lam lab 1 bai o day");
+        System.out.println("Sinh Vien Ngueyn Van A");
+                
     }
 }
